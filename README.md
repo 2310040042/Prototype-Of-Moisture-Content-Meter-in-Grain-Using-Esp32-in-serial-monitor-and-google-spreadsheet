@@ -20,7 +20,6 @@ The system measures moisture levels in grains such as **wheat, rice, and maize**
 * Automatically segregates grains using a **Servo Motor**
 * Logs data to **Google Sheets via Wi-Fi**
 
-This project is developed as a **B.Tech Major Project (ECE – 2025)**.
 
 ---
 
