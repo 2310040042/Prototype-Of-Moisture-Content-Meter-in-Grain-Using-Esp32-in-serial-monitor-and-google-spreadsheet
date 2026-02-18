@@ -64,9 +64,8 @@ This project provides a **portable, affordable, and IoT-enabled alternative**.
 
 ![Image](https://esp32io.com/images/tutorial/esp32-ultrasonic-sensor-servo-motor-wiring-diagram.jpg)
 
-![Image](https://www.xecor.com/files/uploads/editor/b/9aab90c4588d42c7a90c20f9d8f4a91b.webp)
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/f0fe7e68-cf0d-4d59-908f-315fb375e44d" />
 
-![Image](https://www.researchgate.net/publication/350950246/figure/fig1/AS%3A1013645681123329%401618683371093/Figure-Capacitive-Soil-Moisture-Sensor-Schematics-Diagram.jpg)
 
 ![Image](https://dfimg.dfrobot.com/enshop/image/data/BLOG17283/2.jpg)
 
